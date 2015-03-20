@@ -1,0 +1,5 @@
+#py-trello
+-e git+https://github.com/sarumont/py-trello.git@master#egg=trello
+requests[security]
+ipdb
+arrow
